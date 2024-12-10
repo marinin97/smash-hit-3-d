@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.12731713, g: 0.13414736, b: 0.12107852, a: 1}
+  m_IndirectSpecularColor: {r: 0.1273174, g: 0.13414761, b: 0.12107885, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -281,9 +281,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hallwayPrefabs:
   - {fileID: 5247541284237465850, guid: 37b1e050518c1574680b7a47d1403a17, type: 3}
-  - {fileID: 2664331412290201833, guid: b93d0af3317e93f47b774d67f6cfa767, type: 3}
+  - {fileID: 46790297888608939, guid: b93d0af3317e93f47b774d67f6cfa767, type: 3}
   - {fileID: 1854467843576020431, guid: 3a577900594fee8458a784e1f5fff8aa, type: 3}
   - {fileID: 9165347258052832271, guid: 8cbc5b56517587f4bb68e0833662f962, type: 3}
+  - {fileID: 2240884469959649897, guid: 7d6587f965c48904b9d0778ba68f4e45, type: 3}
 --- !u!54 &330585549
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -381,7 +382,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60c4ab04ae67a1d4198bd8d6e27052a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialBallCount: 25
+  initialBallCount: 1000
 --- !u!114 &330585554
 MonoBehaviour:
   m_ObjectHideFlags: 0
