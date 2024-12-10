@@ -281,7 +281,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hallwayPrefabs:
   - {fileID: 5247541284237465850, guid: 37b1e050518c1574680b7a47d1403a17, type: 3}
-  - {fileID: 46790297888608939, guid: b93d0af3317e93f47b774d67f6cfa767, type: 3}
+  - {fileID: 1199026273330648793, guid: b93d0af3317e93f47b774d67f6cfa767, type: 3}
   - {fileID: 1854467843576020431, guid: 3a577900594fee8458a784e1f5fff8aa, type: 3}
   - {fileID: 9165347258052832271, guid: 8cbc5b56517587f4bb68e0833662f962, type: 3}
   - {fileID: 2240884469959649897, guid: 7d6587f965c48904b9d0778ba68f4e45, type: 3}
