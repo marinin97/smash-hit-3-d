@@ -5,7 +5,7 @@ using UnityEngine.Events;
 
 public class DestructionEffect : MonoBehaviour
 {
-    public UnityEvent OnDestruction;
+    public UnityEvent OnDestruction = new UnityEvent();
     [SerializeField] private GameObject[] fragments;
 
     private void OnTriggerEnter(Collider other)
